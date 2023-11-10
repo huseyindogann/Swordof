@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EquipmentSlot
+  - Dragable
+  - PlayerFortPathCreator
+  - PlayerSoldier
+  - EnemySoldier
+  - PlayerFort
+  - EnemyFortPathCreator
+  - Level1Equipment
+  - Level2Equipment
+  - Level3Equipment
+  - Level4Equipment
+  - Level5Equipment
+  - Level6Equipment
+  - EnemyFort
+  - NonUseEquipmentPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
